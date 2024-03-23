@@ -1,0 +1,24 @@
+{
+  "name": "yghsocketsserver",
+  "version": "1.0.0",
+  "description": "Serveur de transmission de données en temps réel (sockets io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerefsoldier/yugioh_sockets_server.git"
+  },
+  "author": "Marc Chantebel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerefsoldier/yugioh_sockets_server/issues"
+  },
+  "homepage": "https://github.com/zerefsoldier/yugioh_sockets_server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
